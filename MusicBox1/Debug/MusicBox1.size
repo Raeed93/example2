@@ -1,0 +1,29 @@
+MusicBox1.elf  :
+section              size        addr
+.interrupts          1040           0
+.text               16976        1040
+.ARM.exidx              8       18016
+.flash                  0       18024
+.mtb                    0   536862720
+.interrupts_ram         0   536862720
+.data                 508   536862720
+.noinit                 0   536863228
+.bss                  112   536863228
+.heap                4096   536863340
+.stack               8192   536870912
+.flexRAM                0   335544320
+.flexNVM                0   268435456
+.bitband           262144   570425344
+.ARM.attributes        42           0
+.comment               76           0
+.debug_info        598450           0
+.debug_abbrev       27702           0
+.debug_aranges       1936           0
+.debug_ranges        1720           0
+.debug_macro        71869           0
+.debug_line         38309           0
+.debug_str         374612           0
+.debug_frame         8872           0
+Total             1416664
+
+
